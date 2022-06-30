@@ -1,2 +1,0 @@
-# KodluyoruzOdevler
-Kodluyoruz sitesi ödevleri
