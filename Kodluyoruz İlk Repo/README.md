@@ -1,18 +1,18 @@
-# Kodluyoruz İlk Repo
+# **Kodluyoruz İlk Repo**
 
-Bu repo [kodluyoruz.org](https://www.kodluyoruz.org/) ile [_Başlangıç Seviye Java ile Backend Web Development Patikası_](https://app.patika.dev/paths/baslangic-seviye-java-ile-backend-web-development-patikasi) eğitiminde oluşturduğum ilk repo. İçerisinde bir adet **README** dosyası, bir adet **LICENSE** dosyası bir adet **index.html**, bir adet de **img.png** barındırıyor.
+Bu repo [kodluyoruz.org](https://www.kodluyoruz.org/) ile [_Başlangıç Seviye Java ile Backend Web Development Patikası_](https://app.patika.dev/paths/baslangic-seviye-java-ile-backend-web-development-patikasi) eğitiminde oluşturduğum ilk repo. İçerisinde bir adet **README** dosyası, bir adet **index.html**, bir adet de **img.png** barındırıyor.
 
-![kudret](https://raw.githubusercontent.com/KudretKirenci/kodluyoruz_ilk_repo/main/img.png)
+![img](https://raw.githubusercontent.com/KudretKirenci/KodluyoruzOdevler/main/Kodluyoruz%20%C4%B0lk%20Repo/img.png)
 
-## Installation
+## **Installation**
 
-Öncelikle projeyi clonelayın. https://github.com/KudretKirenci/kodluyoruz_ilk_repo.git
+Öncelikle projeyi clonelayın. https://github.com/KudretKirenci/KodluyoruzOdevler/tree/main/Kodluyoruz%20%C4%B0lk%20Repo
 
 ```bash
-git clone https://github.com/KudretKirenci/kodluyoruz_ilk_repo.git
+git clone https://github.com/KudretKirenci/KodluyoruzOdevler/tree/main/Kodluyoruz%20%C4%B0lk%20Repo
 ```
 
-## Usage
+## **Usage**
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -23,10 +23,12 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-## Contributing
+## **Contributing**
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-## License
+## **License**
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# [Patika Hesabım](https://app.patika.dev/kudretkirenci)
